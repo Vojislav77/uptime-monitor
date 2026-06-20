@@ -89,7 +89,7 @@ To enable them (e.g., on Render), set these environment variables:
 
 ## Project Structure
 
-uptime-monitor/
+    uptime-monitor/
     ├── uptime_monitor.py     # Main application
     ├── requirements.txt      # Python dependencies
     ├── Dockerfile            # Docker configuration
