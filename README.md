@@ -8,8 +8,7 @@ A real-time, self-hosted service monitoring dashboard built with Python and Flas
 
 ## Preview
 
-![Uptime Monitor Dashboard](<img width="1605" height="712" alt="um" src="https://github.com/user-attachments/assets/ed333d2f-da41-4c1f-8dd4-51dfa443edd9" />)
-
+<img width="1605" height="712" alt="um" src="https://github.com/user-attachments/assets/ed333d2f-da41-4c1f-8dd4-51dfa443edd9" />
 
 ---
 
@@ -91,12 +90,12 @@ To enable them (e.g., on Render), set these environment variables:
 ## Project Structure
 
 uptime-monitor/
-├── uptime_monitor.py     # Main application
-├── requirements.txt      # Python dependencies
-├── Dockerfile            # Docker configuration
-├── start.sh              # One-click local launcher
-├── .gitignore            # Ignored files
-└── README.md             # This file
+    ├── uptime_monitor.py     # Main application
+    ├── requirements.txt      # Python dependencies
+    ├── Dockerfile            # Docker configuration
+    ├── start.sh              # One-click local launcher
+    ├── .gitignore            # Ignored files
+    └── README.md             # This file
 
 ---
 
