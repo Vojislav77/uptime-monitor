@@ -2,6 +2,8 @@
 
 A real-time service monitoring dashboard built with Python, Flask, and SQLite.
 
+<img width="1605" height="712" alt="um" src="https://github.com/user-attachments/assets/ed333d2f-da41-4c1f-8dd4-51dfa443edd9" />
+
 ## Features
 - HTTP, TCP, and SSL certificate monitoring
 - Historical uptime tracking with SQLite persistence
